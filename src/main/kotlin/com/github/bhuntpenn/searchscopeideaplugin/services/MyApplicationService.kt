@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.bhuntpenn.searchscopeideaplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.bhuntpenn.searchscopeideaplugin.MyBundle
 
 class MyApplicationService {
 
